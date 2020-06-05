@@ -1,0 +1,4 @@
+## How can I make my point in the organization?
+
+You need to change the behaviour. Changing attitude is very hard. 
+For example, If I thought I would like to become a marathon runner, then I bought a pair of shoes, running outfit and developed a stong attitude that yes I can do it and then I sat on the couch and ate my breakfast and started watching Netflix wearing my shoes. So , this will not help. You need some coach who can take you to running, who can come to your house and take you outside. Therefore, you need to change the behaviour first. Take small steps, do the small POC, collect language and some data and then present it in the organization. Then, people will start hearing you.
