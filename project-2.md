@@ -4,7 +4,13 @@ Assume that one company is creating Instagram like application. Developers have 
 
 ### Project Tasks
 
-- Create infrastructure diagram using best practices and showing the secured networking.
-- Write CloudFormation template for creating network and server resources.
-- Pull the source code from S3 bucket to EC2 instance in an automated way.
-- Deploy the web app using CloudFormation
+-   Create infrastructure diagram using best practices and showing the secured networking.
+-   Write CloudFormation template for creating network and server resources.
+-   Pull the source code from S3 bucket to EC2 instance in an automated way.
+-   Deploy the web app using CloudFormation
+
+### Project Solution
+
+It can be found on below link:
+
+[Deploy a High Availability web app using CloudFormation Solution](https://github.com/sourabhgupta385/deploy-ha-web-app-using-cloudformation)
